@@ -21,9 +21,9 @@ REACT         ████████▓▓▓▓▒░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![Metrics](https://metrics.lecoq.io/FonjiHill?template=classic&base.indepth=false&config.timezone=Africa%2FDouala)
+![Metrics](https://metrics.lecoq.io/FonjiHill/EpitechMscProPromo2024?template=classic&base.indepth=false&config.timezone=Africa%2FDouala)
 
-[![LN's github activity graph](https://activity-graph.herokuapp.com/graph?username=FonjiHill/EpitechMscProPromo2024&theme=xcode)](https://github.com/FonjHill)
+[![LN's github activity graph](https://activity-graph.herokuapp.com/graph?username=FonjiHill&theme=xcode)](https://github.com/FonjHill)
 
 
 <p align="left"> 

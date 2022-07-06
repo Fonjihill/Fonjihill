@@ -12,17 +12,16 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-JAVA         11 hrs 18 mins  ██████████▓░░░░░░░░░░░░░░   42.86 %
-JavaScript   7 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-HTML         6 hrs 45 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
-JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-XML          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JAVA          ██████████████▓▓▓░░░░░░░░   70.26 %
+JavaScript    ███████████▓▓▒░░░░░░░░░░░   50.47 %
+HTML          ██████████████████▓▓▓▓▓▓▒   98.61 %
+REACT         ████████▓▓▓▓▒░░░░░░░░░░░░   46.76 %
+
 ```
 
 <!--END_SECTION:waka-->
 
-![Metrics](https://metrics.lecoq.io/ln-dev7?template=classic&base.indepth=false&config.timezone=Africa%2FDouala)
+![Metrics](https://metrics.lecoq.io/FonjiHill?template=classic&base.indepth=false&config.timezone=Africa%2FDouala)
 
 [![LN's github activity graph](https://activity-graph.herokuapp.com/graph?username=FonjiHill&theme=xcode)](https://github.com/ln-dev7)
 

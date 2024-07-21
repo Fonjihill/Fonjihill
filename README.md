@@ -59,3 +59,7 @@ REACT         ████████▓▓▓▓▒░░░░░░░░░
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=FonjiHill&label=Profile%20views&color=0e75b6&style=flat" alt="FonjiHill" />
 </p>
+
+
+## Watch my contribution graph eaten by the snake 🐍
+![snake gif](https://github.com/FonjiHill/FonjiHill/blob/output/github-contribution-grid-snake.svg)

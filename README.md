@@ -1,57 +1,51 @@
-# Hi there, I'm Fonji Terence 👋
+<h1 align="center">Hi 👋, I'm NZIDJOUO FONJI</h1>
+<h3 align="center">Hi, I'm Fonji Terence, 25 years old, currently Java Backend Developer and CEO of a Digital Youths</h3>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=FonjiHill&color=blue)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fonjihill&label=Profile%20views&color=0e75b6&style=flat" alt="fonjihill" /> </p>
 
-## About Me 🚀
-- 👋 Hi, I'm Fonji Terence, 25 years old, currently Java Backend Developer and CEO of a remote web service agency.
-- 👀 I’m interested in all things concerning Web Development, Video Games, and IOT (Internet of Things).
-- 💞️ I’m looking to collaborate on different projects.
-- 📫 How to reach me: 
-  - [Email](mailto:terencehilln@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/terence-hill-nzidjouo-fonji-12817b1a5/)
-  - [Twitter](https://twitter.com/FonjiHill)
-- 📫 Discover more about me <a href="https://fonjiterence.netlify.app/" target="_blank">HERE</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fonjihill" alt="fonjihill" /></a> </p>
 
-## 🚀 My Skills
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![C++](https://img.shields.io/badge/-C++-000?&logo=C++) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=SpringBoot)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=IntelliJ%20IDEA) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL) ![JUnit](https://img.shields.io/badge/-JUnit-000?&logo=JUnit5) ![Mockito](https://img.shields.io/badge/-Mockito-000?&logo=Mockito)
+<p align="left"> <a href="https://twitter.com/fonjihill" target="blank"><img src="https://img.shields.io/twitter/follow/fonjihill?logo=twitter&style=for-the-badge" alt="fonjihill" /></a> </p>
 
-## 📈 GitHub Stats
-![FonjiHill's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FonjiHill&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+- 🔭 I’m currently working on **Digital Youths**
 
-## 🔥 Streak Stats
-![FonjiHill's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FonjiHill&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
+- 🌱 I’m currently learning **.Net**
 
-## 🏆 GitHub Trophies
-![FonjiHill's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FonjiHill&theme=radical)
+- 👯 I’m looking for collaborator on **Digital Academy Projects**
 
-## 📊 Contributions
-[![FonjiHill's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=FonjiHill)](https://github.com/LordDashMe/github-contribution-stats/)
+- 📝 I regularly write articles on [https://medium.com/@nzidjouofonji](https://medium.com/@nzidjouofonji)
 
-## 🏢 Organizations
-![Digital Youth](https://img.shields.io/badge/-Digital%20Youth-000?&logo=DigitalYouth)
+- 💬 Ask me about **Java, Spring Boot, Microservices**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="200">
+- 📫 How to reach me **terencehilln@gmail.com**
+
+- ⚡ Fun fact **I like video Games and I'm a goalKeeper in a community football team**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/mister_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mister_t" height="30" width="40" /></a>
+<a href="https://twitter.com/fonjihill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fonjihill" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/terence-hill-nzidjouo-fonji-12817b1a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="terence-hill-nzidjouo-fonji-12817b1a5" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6613887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6613887" height="30" width="40" /></a>
+<a href="https://instagram.com/mister_tehill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mister_tehill" height="30" width="40" /></a>
+<a href="https://medium.com/@nzidjouofonji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nzidjouofonji" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@digitalyouthservices7517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@digitalyouthservices7517" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mister_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mister_t" height="30" width="40" /></a>
+<a href="https://discord.gg/mister_t#6297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mister_t#6297" height="30" width="40" /></a>
 </p>
 
-📊 My Github Stats
-  <br/>
-  <a href="https://github.com/FonjiHill/github-readme-stats"><img alt="FonjiHill Github Stats" src="https://github-readme-stats.vercel.app/api?username=FonjiHill&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/FonjiHill/github-readme-stats"><img alt="FonjiHill's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FonjiHill&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>
-<a href="https://github.com/FonjiHill/github-readme-activity-graph"><img alt="FonjiHill's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FonjiHill&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<br/>
-<br/>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=FonjiHill&label=Profile%20views&color=0e75b6&style=flat" alt="FonjiHill" />
-</p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mister_t"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mister_t" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fonjihill&show_icons=true&locale=en&layout=compact" alt="fonjihill" /></p>
 
-## Watch my contribution graph eaten by the snake 🐍
-![snake gif](https://github.com/FonjiHill/FonjiHill/blob/output/github-contribution-grid-snake.svg)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fonjihill&show_icons=true&locale=en" alt="fonjihill" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonjihill&" alt="fonjihill" /></p>

@@ -7,15 +7,15 @@
 - 👀 I’m interested in all things concerning Web Development, Video Games, and IOT (Internet of Things).
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me: 
-  - [Email](mailto:your-email@example.com)
-  - [LinkedIn](https://www.linkedin.com/in/yourusername/)
-  - [Twitter](https://twitter.com/yourusername)
+  - [Email](mailto:terencehilln@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/terence-hill-nzidjouo-fonji-12817b1a5/)
+  - [Twitter](https://twitter.com/FonjiHill)
 - 📫 Discover more about me <a href="https://fonjiterence.netlify.app/" target="_blank">HERE</a>
 
 ## 🚀 My Skills
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![C++](https://img.shields.io/badge/-C++-000?&logo=C++) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+- **Frameworks**: ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=SpringBoot)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=IntelliJ%20IDEA) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL) ![JUnit](https://img.shields.io/badge/-JUnit-000?&logo=JUnit5) ![Mockito](https://img.shields.io/badge/-Mockito-000?&logo=Mockito)
 
 ## 📈 GitHub Stats
 ![FonjiHill's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FonjiHill&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
@@ -30,7 +30,11 @@
 [![FonjiHill's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=FonjiHill)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ## 🏢 Organizations
-![Organizations](https://img.shields.io/badge/-Your%20Organization-000?&logo=YourOrganization)
+![Digital Youth](https://img.shields.io/badge/-Digital%20Youth-000?&logo=DigitalYouth)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="200">
+</p>
 
 ## 💻 Coding Activity
 <!--START_SECTION:waka-->
@@ -39,8 +43,8 @@ JAVA          ██████████████▓▓▓░░░░░
 JavaScript    ███████████▓▓▒░░░░░░░░░░░   50.47 %
 HTML          ██████████████████▓▓▓▓▓▓▒   98.61 %
 REACT         ████████▓▓▓▓▒░░░░░░░░░░░░   46.76 %
-
 <!--END_SECTION:waka-->
+
 📊 My Github Stats
   <br/>
   <a href="https://github.com/FonjiHill/github-readme-stats"><img alt="FonjiHill Github Stats" src="https://github-readme-stats.vercel.app/api?username=FonjiHill&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -56,4 +60,3 @@ REACT         ████████▓▓▓▓▒░░░░░░░░░
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=FonjiHill&label=Profile%20views&color=0e75b6&style=flat" alt="FonjiHill" />
 </p>
-Watch my contribution graph eaten by the snake 🐍

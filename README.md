@@ -36,18 +36,6 @@
   <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="200">
 </p>
 
-## 💻 Coding Activity
-<!--START_SECTION:waka-->
-JAVA          ██████████████▓▓▓░░░░░░░░   70.26 %
-
-JavaScript    ███████████▓▓▒░░░░░░░░░░░   50.47 %
-
-HTML          ██████████████████▓▓▓▓▓▓▒   98.61 %
-
-REACT         ████████▓▓▓▓▒░░░░░░░░░░░░   46.76 %
-
-<!--END_SECTION:waka-->
-
 📊 My Github Stats
   <br/>
   <a href="https://github.com/FonjiHill/github-readme-stats"><img alt="FonjiHill Github Stats" src="https://github-readme-stats.vercel.app/api?username=FonjiHill&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>

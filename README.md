@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Terence NZIDJOUO FONJI</h1>
-<h3 align="center">Fullstack Java Developer · AI Champion · Co-founder</h3>
+<h3 align="center">Fullstack Java Developer · Software Architecture · DDD</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/terence-hill-nzidjouo-fonji-12817b1a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -16,32 +16,19 @@
 
 ### About me
 
-Fullstack developer with a backend focus (Java / Spring Boot), currently working on large-scale legacy enterprise systems in the energy sector: Java, Struts, Spring, WebLogic, Oracle / PostgreSQL, Maven multi-module, Jenkins.
+Fullstack developer with a backend focus (Java / Spring Boot). What I care about is design: clean boundaries, explicit domain models, and code that still makes sense two years later.
 
-Alongside that, I build products for the francophone African tech ecosystem.
-
-- 🔭 **Currently building** — internal AI agents for test generation and code review (Gemini CLI extensions, Vertex AI, GitLab CI), plus [ColisMove](https://colismove.com) and Safyrr
-- 🤖 **AI Champion / Référent IA** for my team: adoption tracking, KPI reporting and peer coaching on AI dev tooling
-- 🌱 **Learning** — agentic AI workflows, prompt engineering for dev productivity, DDD & hexagonal architecture in production
-- ☁️ **Certified** — Google Cloud Digital Leader
-- 📝 **I write** about software architecture, DDD and developer careers on [Medium](https://medium.com/@nzidjouofonji)
-- 💬 **Ask me about** — Java, Spring Boot, legacy modernization, microservices, AI-assisted development
+- 🤖 **AI is my main obsession right now** — agentic workflows, prompt engineering, and building AI tooling that actually helps developers ship
+- 🧠 **Software architecture** — Domain-Driven Design, hexagonal architecture, Clean Architecture, applied in production and not just on slides
+- 📝 **I write** — articles on architecture, DDD and developer careers on [Medium](https://medium.com/@nzidjouofonji)
+- 🌱 **Always sharpening** — I learn in public, break things on purpose, and rewrite what I got wrong
+- 💬 **Ask me about** — Java, Spring Boot, DDD, microservices, AI-assisted development
 - 📫 **Reach me at** — terencehilln@gmail.com
 - ⚡ **Fun fact** — running, the gym, and way too many hours in NBA 2K MyCareer
 
 ---
 
-### Ventures
-
-| Project | What it is |
-|---|---|
-| **Bomunto** | Software agency (Douala, Cameroon): custom development, hosting and consulting |
-| **ColisMove** | Logistics marketplace connecting shippers and transporters in Cameroon → [colismove.com](https://colismove.com) |
-| **Safyrr** | Fintech for the CEMAC / XAF zone: mobile money on-ramps, internal ledger, P2P transfers |
-
----
-
-### Tech I actually work with
+### What I work with
 
 **Languages**
 <p>
@@ -72,8 +59,8 @@ Alongside that, I build products for the francophone African tech ecosystem.
 
 **Data & Infra**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>

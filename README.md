@@ -75,11 +75,11 @@ Fullstack developer with a backend focus (Java / Spring Boot). What I care about
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fonjihill&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=fonjihill&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fonjihill&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fonjihill&layout=compact&langs_count=8&theme=tokyonight" alt="top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fonjihill&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fonjihill&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
